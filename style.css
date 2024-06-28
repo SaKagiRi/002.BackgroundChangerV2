@@ -18,3 +18,11 @@
 #addColor {
     width: 70px;
 }
+
+#text {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    color: rgb(181, 181, 181);
+    font-size: 10px;
+}
