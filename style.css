@@ -1,10 +1,20 @@
 #btn {
-    height: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 70px;
+    width: 120px;
+    font-size: 15px;
 }
 
 .mainContainer {
     display: flex;
     justify-content: center;
+    align-items: center ;
+    flex-direction: column;
     margin: 250px;
+}
 
+#addColor {
+    width: 70px;
 }
